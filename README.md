@@ -7,9 +7,9 @@ Backend FiveM Developer
 Hey! Im programming in .Lua since a long Time. I´ve been Developer at Wave Crimelife, Qseng Crimelife, RedCrimelife, NordVerband Roleplay and more FiveM Servers. I´m 16 years Old and come from Germany, Rhineland-Palatinate State. I´m a Programmer in php, JAVA, Js and Python too (:
 
 * 🌍  I'm based in Germany
-* ✉️  You can contact me at [squanix@projektterz.de](mailto:squanix@projektterz.de)
-* 🚀  I'm currently working on [NordVerband Roleplay](http://discord.gg/nordverband)
-* 🧠  I'm learning HTML, CSS, C# and TypeScript
+* ✉️  You can contact me at [squanix@projektterz.de](mailto:kontakt@squanix.dev)
+* 🚀  I'm currently working on [ReturnTheFallen MilSim](http://discord.gg/returnthefallen)
+* 🧠  I'm learning React, TypeScript and VUE
 * 🤝  I'm open to collaborating on FiveM Servers and Discord Bots
 * ⚡  And last but not Least I´m Batman....
 

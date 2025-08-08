@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend FiveM Developer
 -----------------------
 
-Hey! Im programming in .Lua since a long Time. I´ve been Developer at Wave Crimelife, Qseng Crimelife, RedCrimelife, NordVerband Roleplay and more FiveM Servers. I´m 16 years Old and come from Germany, Rhineland-Palatinate State. I´m a Programmer in php, JAVA, Js and Python too (:
+Hey! Im programming in .Lua since a long Time. I´ve been Developer at Wave Crimelife, Qseng Crimelife, RedCrimelife, NordVerband Roleplay and more FiveM Servers. I´m 17 years Old and come from Germany, Rhineland-Palatinate State. I´m a Programmer in .Lua, html, css, C#, php, JAVA, Js and Python too (:
 
 * 🌍  I'm based in Germany
-* ✉️  You can contact me at [squanix@projektterz.de](mailto:kontakt@squanix.dev)
-* 🚀  I'm currently working on [ReturnTheFallen MilSim](http://discord.gg/returnthefallen)
+* ✉️  You can contact me at [kontakt@squanix.dev](mailto:kontakt@squanix.dev)
+* 🚀  I'm currently working on DrakenCity/ForgeRP
 * 🧠  I'm learning React, TypeScript and VUE
 * 🤝  I'm open to collaborating on FiveM Servers and Discord Bots
 * ⚡  And last but not Least I´m Batman....
